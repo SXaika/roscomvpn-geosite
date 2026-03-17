@@ -1,160 +1,540 @@
-# Direct for checkers of MAX
-
-domain:ipify.org
-domain:checkip.amazonaws.com
-domain:ifconfig.me
-
-# custom for easy checking
-
-domain:2ip.ru
-
-# custom ru only
-
-domain:mangalib.me
-domain:animego.me
-domain:showip.net
-domain:avtoto.ru
-domain:tildacdn.com
-
-# VTB
-
-domain:vtbglobalperspectives.com
-domain:vtb-direct.com
-
-# Sberbank / Sber
-
-domain:sber.world
-domain:sber.ws
-domain:sbercoin.com
-
-# Yandex
-
-domain:yandex.aero
-domain:yandex.az
-domain:yandex.co.il
-domain:yandex.com
-domain:yandex.com.am
-domain:yandex.com.ge
-domain:yandex.com.tr
-domain:yandex.com.ua
-domain:yandex.de
-domain:yandex.ee
-domain:yandex.eu
-domain:yandex.fi
-domain:yandex.fr
-domain:yandex.jobs
-domain:yandex.kg
-domain:yandex.kz
-domain:yandex.lt
-domain:yandex.lv
-domain:yandex.md
-domain:yandex.net
-domain:yandex.org
-domain:yandex.pl
-domain:yandex.st
-domain:yandex.sx
-domain:yandex.tj
-domain:yandex.tm
-domain:yandex.uz
-domain:yandexcloud.net
-domain:yastatic.net
-domain:yandex.ua
-
-# VK Company
-
-domain:mvk.com
-domain:userapi.com
-domain:vk-apps.com
-domain:vk-cdn.me
-domain:vk-cdn.net
-domain:vk-portal.net
-domain:vk.cc
-domain:vk.com
-domain:vk.company
-domain:vk.design
-domain:vk.link
-domain:vk.me
-domain:vk.team
-domain:vkcache.com
-domain:vkgo.app
-domain:vklive.app
-domain:vkmessenger.app
-domain:vkmessenger.com
-domain:vkuseraudio.com
-domain:vkuserlive.net
-domain:vkuservideo.com
-domain:vkuservideo.net
-domain:mycdn.me
+# Единая категория RU (объединенная)
 
 # -----------------------------------------------------------
-# CBR Official Bank Website (10.03.2026 Snapshot)
+# РОССИЙСКИЕ ДОМЕННЫЕ ЗОНЫ (TLD)
+# -----------------------------------------------------------
+moscow
+ru
+su
+tatar
+xn--80adxhks
+xn--80asehdb
+xn--80aswg
+xn--c1avg
+xn--d1acj3b
+xn--p1acf
+xn--p1ai
+
+# -----------------------------------------------------------
+# КРУПНЫЕ КОМПАНИИ И ХОЛДИНГИ
 # -----------------------------------------------------------
 
-# ООО "СПЕЦСТРОЙБАНК" (Рег. № 236)
-domain:ssb.msk.ru
-# АО "Великие Луки банк" (Рег. № 598)
-domain:vlb100.ru
-# АО НКБ "СЛАВЯНБАНК" (Рег. № 804)
-domain:slavbank.ru
-# АО "ПЕРВОУРАЛЬСКБАНК" (Рег. № 965)
-domain:prvbank.ru
-domain:pvubank.com
-# Банк ВТБ (ПАО) (Рег. № 1000)
-domain:vtb-grants.fut.ru
-# ООО "Костромаселькомбанк" (Рег. № 1115)
-domain:selkombank.ru
-# "Братский АНКБ" АО (Рег. № 1144)
-domain:ankb.ru
-# АО комбанк "Арзамас" (Рег. № 1281)
-domain:bank-arzamas.ru
-# АО БАНК "Ермак" (Рег. № 1809)
-domain:bankermak.ru
-# АО АКБ "Алеф-Банк" (Рег. № 2119)
-domain:alefbank.com
-# АКБ "Форштадт" (АО) (Рег. № 2208)
-domain:forshtadt.ru
-# ПАО "БАНК УРАЛСИБ" (Рег. № 2275)
-domain:bfa.ru
-# АО "Банк ДОМ.РФ" (Рег. № 2312)
-domain:rkbank.ru
-# ООО КБ "МВС Банк" (Рег. № 2407)
-domain:mvs-bank.ru
-# АО "Банк Кредит Свисс (Москва)" (Рег. № 2494)
-domain:bank-credit-suisse-moscow.ru
-# "ЗИРААТ БАНК (МОСКВА)" (АО) (Рег. № 2559)
-domain:ziraatbank.ru
-# КБ "Дж.П. Морган Банк Интернешнл" (ООО) (Рег. № 2629)
-domain:jpmorgan.ru
-# АКБ "НООСФЕРА" (АО) (Рег. № 2650)
-domain:noosferabank.ru
-# ООО "НКО "Вестерн Юнион ДП Восток" (Рег. № 2726)
-domain:westernunion.ru
-# АО "Таганрогбанк" (Рег. № 3136)
-domain:tagbank.ru
-# РНКО "Платежный Центр" (ООО) (Рег. № 3166)
-domain:korona.com
-# ПАО Банк ЗЕНИТ (Рег. № 3255)
-domain:credit-zenit.ru
-domain:zenit-card.ru
-# ООО "Дойче Банк" (Рег. № 3328)
-domain:autobahn.db.com
-# АО "КОММЕРЦБАНК (ЕВРАЗИЯ)" (Рег. № 3333)
-domain:commerzbank.ru
-# АО "Мидзухо Банк (Москва)" (Рег. № 3337)
-domain:mizuhogroup.com
-# "Банк "МБА-МОСКВА" ООО (Рег. № 3395)
-domain:ibamoscow.ru
-# ООО "Ю Би Эс Банк" (Рег. № 3463)
-domain:ubs.com
-# АО "СМБСР Банк" (Рег. № 3494)
-domain:smbcr-bank.ru
-# ООО НКО "ЮМани" (Рег. № 3510)
-domain:yoobusiness.ru
-# ООО "Чайна Констракшн Банк" (Рег. № 3515)
-domain:ru.ccb.com
-# АО "Банк 131" (Рег. № 3538)
-domain:bank131.com
-# РНКО АЗИЯПЭЙ ООО (Рег. № 3544)
-domain:asia-pay.ru
-# РНКО Люминис (АО) (Рег. № 3551)
-domain:rncoluminis.ru
+# Yandex (включая Кинопоиск)
+adfox.ru
+admetrica.ru
+full:arenda.yandex.ru
+kinopoisk.ru
+kinopoisk-ru.clstorage.net
+naydex.net
+rostaxi.org
+turbopages.org
+webvisor.com
+webvisor.org
+ya.ru
+yads.tech
+yandex-bank.net
+yandex-images.clstorage.net
+full:yandex-pogoda.static-storage.net
+yandex-team.ru
+yandex.aero
+yandex.az
+yandex.by
+yandex.cloud
+yandex.co.il
+yandex.com
+yandex.com.am
+yandex.com.ge
+yandex.com.ru
+yandex.com.tr
+yandex.com.ua
+yandex.de
+yandex.ee
+yandex.eu
+yandex.fi
+yandex.fr
+yandex.jobs
+yandex.kg
+yandex.kz
+yandex.lt
+yandex.lv
+yandex.md
+yandex.net
+yandex.org
+yandex.pl
+yandex.ru
+yandex.st
+yandex.sx
+yandex.tj
+yandex.tm
+yandex.tr
+yandex.ua
+yandex.uz
+yandexadexchange.net
+yandexcloud.net
+yandexcom.net
+yandexmetrica.com
+yandexwebcache.net
+yandexwebcache.org
+yastat.net
+yastatic-net.ru
+yastatic.net
+xn--d1acpjx3f.xn--p1ai # яндекс.рф
+
+# VK (ВКонтакте) и Odnoklassniki (Одноклассники)
+cdn-vk.ru
+mradx.net
+mvk.com
+mycdn.me
+ok.ru
+okcdn.ru
+full:st-ok-pts.cdn-vk.ru
+full:st-ok.cdn-vk.ru
+userapi.com
+vk-analytics.ru
+vk-apps.com
+vk-apps.ru
+vk-cdn.me
+vk-cdn.net
+vk-portal.net
+vk.cc
+vk.com
+vk.company
+vk.design
+vk.link
+vk.me
+vk.ru
+vk.team
+vkcache.com
+vkcloud-static.ru
+vkgo.app
+vklive.app
+vkmessenger.app
+vkmessenger.com
+vkontakte.ru
+vkuser.net
+vkuseraudio.com
+vkuseraudio.net
+vkuseraudio.ru
+vkusercdn.ru
+vkuserlive.net
+vkuserphoto.ru
+vkuservideo.com
+vkuservideo.net
+vkuservideo.ru
+vkvideo.ru
+
+# Mail.ru Group (VK Mail.ru и др.)
+boosty.to
+donationalerts.com
+dzen.ru
+dzeninfra.ru
+imgsmail.ru
+mail.ru
+max.ru
+memealerts.com
+oneme.ru
+tamtam.chat
+full:youla-web-static.mrgcdn.ru
+youla.io
+youla.ru
+
+# -----------------------------------------------------------
+# БАНКИ И ФИНАНСЫ
+# -----------------------------------------------------------
+
+# Alfa Bank
+alfabank.ru
+
+# GazpromBank
+gazprombank.ru
+gpb.ru
+
+# Mts Dengi
+dbo-dengi.online
+mtsdengi.ru
+
+# PSB Bank
+psbank.ru
+
+# RosBank
+bankline.ru
+rosbank.ru
+
+# RUSSIA Bank
+abr.ru
+
+# Russian Agricultural Bank
+rshb.ru
+
+# SberBank
+sber.ru
+sberbank.com
+sberbank.ru
+
+# T-Bank (Tinkoff)
+cdn-tinkoff.ru
+tbank-online.com
+tbank.ru
+
+# Tochka Bank
+tochka-tech.com
+tochka.com
+
+# VTB Bank
+vtb.ru
+full:mos.transport.vtb.ru
+
+# Другие банки и финансовые организации
+bank131.com
+bank-credit-suisse-moscow.ru
+bank-arzamas.ru
+bankermak.ru
+alefbank.com
+ankb.ru
+asia-pay.ru
+autobahn.db.com
+bfa.ru
+commerzbank.ru
+credit-zenit.ru
+forshtadt.ru
+ibamoscow.ru
+jpmorgan.ru
+korona.com
+mizuhogroup.com
+mvs-bank.ru
+noosferabank.ru
+prvbank.ru
+pvubank.com
+rkbank.ru
+rncoluminis.ru
+ru.ccb.com
+selkombank.ru
+slavbank.ru
+smbcr-bank.ru
+ssb.msk.ru
+tagbank.ru
+ubs.com
+vlb100.ru
+full:vtb-grants.fut.ru
+westernunion.ru
+yoobusiness.ru
+zenit-card.ru
+ziraatbank.ru
+
+# Кредитные истории, биржи, маркетплейсы
+credistory.ru
+nbki.ru
+moex.com   # Московская биржа
+spvb.ru    # Санкт-Петербургская биржа
+banki.ru
+finuslugi.ru
+sistema-capital.com
+mirpayonline.ru
+nspk.ru
+netmonet.co
+tips.tips
+
+# -----------------------------------------------------------
+# ТЕЛЕКОМ-ОПЕРАТОРЫ
+# -----------------------------------------------------------
+beeline.ru
+dom.ru
+megafon.ru
+mts.ru
+mymts.ru
+rostelecom.ru
+rt.ru
+t2.ru
+tele2.ru
+yota.ru
+
+# -----------------------------------------------------------
+# ИНТЕРНЕТ-МАГАЗИНЫ И E-COMMERCE
+# -----------------------------------------------------------
+
+# Avito
+avito.ru
+avito.st
+
+# Ozon
+ozon.ru
+ozone.ru
+ozonusercontent.com
+
+# Wildberries
+geobasket.ru
+paywb.com
+rwb.ru
+wb-basket.ru
+wb.ru
+wbbasket.ru
+wbpay.ru
+wibes.ru
+wildberries.ru
+
+# -----------------------------------------------------------
+# РОЗНИЧНЫЕ СЕТИ
+# -----------------------------------------------------------
+
+# X5 Group (Пятерочка, Перекресток и др.)
+5ka.ru
+5post.market
+chizhik.club
+clubx5.ru
+dialogx5.ru
+e5.ru
+fivepost.ru
+idx5.ru
+jx5.ru
+keyx5.ru
+mnogolososya.ru
+myapelsin.ru
+okolo.app
+perekrestok.com
+perekrestok.ru
+x5.ai
+x5.com
+x5.digital
+x5.group
+x5.media
+x5.ru
+x5.team
+x5.tech
+x5club.ru
+x5id.ru
+x5l.ru
+x5paket.ru
+x5q.ru
+x5static.net
+x5w.ru
+
+# Другие ритейлеры
+av.ru                   # ABC of Taste
+auchan.ru               # Auchan
+bristol.ru              # Bristol
+detmir.ru               # Children's World
+dixy.ru                 # Dixie
+dodois.com              # Dodo Pizza
+dodois.io               # Dodo Pizza
+dodopizza.com           # Dodo Pizza
+dodopizza.ru            # Dodo Pizza
+dodostatic.net          # Dodo Pizza
+dostaevsky.ru           # Dostaevsky
+evrasia.rest            # Eurasia
+fix-price.com           # Fix Price
+krasnoeibeloe.ru        # Red and White
+lenta.com               # Lenta
+lenta.tech              # Lenta
+magnit.ru               # Magnet
+metro-cc.ru             # Metro
+myspar.ru               # Spar
+rostics.ru              # Rostics
+sushiwok.ru             # Sushi Wok
+uni.rest                # Rostics
+unirest.tech            # Rostics
+vkusnoitochka.ru        # Vkusno i tochka
+vkusvill.ru             # VkusVill
+winelab.ru              # Vinlab
+
+# -----------------------------------------------------------
+# РАЗВЛЕЧЕНИЯ, СМИ И ВИДЕОХОСТИНГИ
+# -----------------------------------------------------------
+24h.tv
+amediateka.ru
+cdnvideo.ru
+ivi.ru
+kinorium.com
+playfamily.ru          # Okko
+premier.one
+restream-media.net     # Wink
+rutube.ru
+rutubelist.ru
+rtbcdn.ru
+smotreshka.tv
+start.ru
+trbcdn.net
+tvigle.ru
+viju.ru
+wink.ru
+okko.sport
+okko.tv
+
+# -----------------------------------------------------------
+# ТУРИЗМ И ПУТЕШЕСТВИЯ
+# -----------------------------------------------------------
+
+# Aviasales
+avs.io
+aviasales.ru
+aviasales.com
+
+# Транспорт
+avtovokzaly.ru
+blablacar.ru
+gorodpay.ru
+mosmetro.ru
+mosmetro.tech
+rrtp.ru
+rzd-bonus.ru
+rzd.ru
+sbertroika.ru
+tutu.ru
+full:transport.mos.ru
+full:bilet.nspk.ru
+full:metro.spb.ru
+full:podorozhnik.spb.ru
+
+# Отели и жилье
+ostrovok.ru
+otello.ru
+
+# -----------------------------------------------------------
+# ГОСУДАРСТВЕННЫЕ И РЕГИОНАЛЬНЫЕ САЙТЫ
+# -----------------------------------------------------------
+
+# Федеральные
+cbr.ru
+cikrf.ru
+ebs.ru
+edu.ru
+emias.info
+goskey.ru
+gosuslugi.ru
+government.ru
+gov.ru
+grfc.ru
+gu-st.ru
+izbirkom.ru
+kremlin.ru
+mgfoms.ru
+mil.ru
+nalog.ru
+xn--80ajghhoc2aj1c8b.xn--p1ai # Honest Sign
+
+# Федеральные города и Регионы
+mos.ru
+mosreg.ru
+spb.ru
+sevastopol.ru
+sev.ru
+adygeya.ru
+bashkiria.ru
+buryatia.ru
+chuvashia.ru
+crimea.ru
+dagestan.ru
+grozny.ru
+i-ola.ru
+izhevsk.ru
+kalmykia.ru
+karelia.ru
+kzn.ru
+kazan.ru
+kchr.ru
+khakassia.ru
+mari-el.ru
+mari.ru
+mordovia.ru
+nalchik.ru
+ptz.ru
+rkomi.ru
+tatarstan.ru
+tuva.ru
+udm.ru
+udmurtia.ru
+ulan-ude.ru
+vladikavkaz.ru
+yakutia.ru
+altai.ru
+chita.ru
+kamchatka.ru
+khabarovsk.ru
+khv.ru
+krasnodar.su
+krasnoyarsk.ru
+kuban.ru
+marine.ru
+perm.ru
+stavropol.ru
+stv.ru
+vl.ru
+vladivostok.ru
+amur.ru
+arkhangelsk.ru
+astrakhan.ru
+belgorod.ru
+bir.ru
+bryansk.ru
+cbg.ru
+chel.ru
+chelyabinsk.ru
+ekburg.ru
+xn--80acgfbsl1azdqr.xn--p1ai
+irk.ru
+irkutsk.ru
+ivanovo.ru
+jar.ru
+kaluga.ru
+kemerovo.ru
+kirov.ru
+koenig.ru
+kostroma.ru
+kurgan.ru
+kursk.ru
+lipetsk.ru
+magadan.ru
+murmansk.ru
+nn.ru
+nov.ru
+novosibirsk.ru
+nsk.ru
+omsk.ru
+orb.ru
+oryol.ru
+psk.ru
+pskov.ru
+rnd.ru
+ryazan.ru
+sakhalin.ru
+samara.ru
+saratov.ru
+simbirsk.ru
+smolensk.ru
+tambov.ru
+tom.ru
+tomsk.ru
+tsaritsyn.ru
+tsk.ru
+tula.ru
+tver.ru
+tyumen.ru
+vladimir.ru
+vlg.ru
+volgograd.ru
+vologda.ru
+voronezh.ru
+vrn.ru
+vyatka.ru
+yaroslavl.ru
+yuzhno-sakhalinsk.ru
+chukotka.ru
+jamal.ru
+surgut.ru
+yamal.ru
+zdrav10.ru
+
+# -----------------------------------------------------------
+# ПРОЧИЕ ИЗВЕСТНЫЕ РЕСУРСЫ
+# -----------------------------------------------------------
+gazfond-pn.ru
+litres.ru
+meteoinfo.ru
+ngenix.net
+pochta.ru
+qms.ru
+rustore.ru
+t1.cloud
+taxsee.com
+yclients.com
+ru.com
+ru.net
