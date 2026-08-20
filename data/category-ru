@@ -551,3 +551,25 @@ taxsee.com
 yclients.com
 ru.com
 ru.net
+
+# -----------------------------------------------------------
+# ДОПОЛНИТЕЛЬНЫЕ IP/ТЕХНИЧЕСКИЕ СЕРВИСЫ
+# -----------------------------------------------------------
+domain:mangalib.me
+domain:animego.me
+domain:showip.net
+domain:avtoto.ru
+domain:tilda.cc
+domain:kinescope.io
+domain:kinescopecdn.net
+domain:redheadsound.studio
+
+# -----------------------------------------------------------
+# ДОПОЛНИТЕЛЬНЫЕ БАНКИ (VTB, СБЕР, СПЕЦСЛУЧАИ)
+# -----------------------------------------------------------
+domain:vtbglobalperspectives.com
+domain:vtb-direct.com
+domain:sber.world
+domain:sber.ws
+domain:sbercoin.com
+domain:vtb-grants.fut.ru
